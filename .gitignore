@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Datasets and Compressed Archives
+dataset/
+image_dataset/
+*.zip
+
+# YOLO Model Weights
+*.pt
