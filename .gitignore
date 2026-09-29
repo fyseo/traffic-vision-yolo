@@ -224,3 +224,6 @@ image_dataset/
 
 # YOLO Model Weights
 *.pt
+
+# Output Files
+Output_Videos/
