@@ -226,4 +226,5 @@ image_dataset/
 *.pt
 
 # Output Files
-Output_Videos/
+video_output_tracking.mp4
+video_output_splitting.mp4
