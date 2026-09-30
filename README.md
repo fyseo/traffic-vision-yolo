@@ -27,8 +27,8 @@ Pre-recorded video inference uses a sample traffic video (`SampleVideo_LowQualit
 ## Usage
 1. **Clone the Repository:**
    ```bash
-   git clone <your-repository-url>
-   cd <your-repository-folder>
+   git clone https://github.com/fyseo/traffic-vision-yolo.git
+   cd traffic-vision-yolo
    ```
 
 
