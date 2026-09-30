@@ -29,8 +29,8 @@ Pre-recorded video inference uses a sample traffic video (`SampleVideo_LowQualit
    ```bash
    git clone <your-repository-url>
    cd <your-repository-folder>
+   ```
 
-```
 
 2. **Install Requirements:** Run the initial setup cell to install the required pip packages and authenticate the Kaggle API.
 3. **Download Data:** Execute the dataset download cell to pull the DAWN dataset directly into your workspace.
@@ -38,9 +38,5 @@ Pre-recorded video inference uses a sample traffic video (`SampleVideo_LowQualit
 
 ## Contributors
 
-* Yousuf Islam Mohamed
-* Ali
-
-```
-
-```
+* **Yousuf Islam** - [fyseo](https://github.com/fyseo)
+* **Abdulrehman-Hatem** - [Abdulrehman's GitHub](https://github.com/Abdulrehman-Hatem)
